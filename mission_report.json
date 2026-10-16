@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "steps": 56,
+  "energy_used": 56,
+  "battery_remaining": 104,
+  "clues_found": 2,
+  "final_position": [
+    10,
+    10
+  ]
+}

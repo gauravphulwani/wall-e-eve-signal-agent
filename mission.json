@@ -1,0 +1,16 @@
+{
+  "rows": 12,
+  "cols": 12,
+  "start": [
+    0,
+    0
+  ],
+  "eve": [
+    10,
+    10
+  ],
+  "battery_capacity": 160,
+  "max_steps": 180,
+  "obstacle_density": 0.16,
+  "seed": 7
+}
